@@ -1,3 +1,3 @@
 # testing-repository
 
-tesktowy teskt do tworzenia commit
+Tesktowy teskt do tworzenia commit!
